@@ -10,8 +10,8 @@ LAST_COMMIT="0aeb29ed29cb4dd7318ab2f1bfdd98c5b8236a6f"
 inherit distutils-r1
 
 DESCRIPTION="Pure Python package for reading and parsing libpcap savefiles"
-HOMEPAGE="https://github.com/mikufan67676767/pypcapfile"
-SRC_URI="https://github.com/mikufan67676767/pypcapfile/${PN}/archive/${LAST_COMMIT}.tar.gz -> ${P}.gh.tar.gz"
+HOMEPAGE="https://github.com/kisom/pypcapfile"
+SRC_URI="https://github.com/kisom/${PN}/archive/${LAST_COMMIT}.tar.gz -> ${P}.gh.tar.gz"
 
 S="${WORKDIR}/${PN}-${LAST_COMMIT}"
 
