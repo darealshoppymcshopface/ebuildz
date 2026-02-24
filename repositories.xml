@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>ebuildz</name>
+      <description lang="en">The official Gentoo overlay for Shoppy McShopface Ltd.</description>
+        <homepage>https://github.com/darealshoppymcshopface/ebuildz</homepage>
+        <owner type="person">
+            <name>Joe Joeman</name>
+			      <email>joe-joeman@shoppy.com</email>
+        </owner>
+        <source type="git">git@github.com:darealshoppymcshopface/ebuildz.git</source>
+  </repo>
+</repositories>
